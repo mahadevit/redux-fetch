@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+.product-list {
+  height:450px;
+}
+.product-list .card{
+  padding:10px;
+}
+.product-list .image {
+  height: 300px;
+
+}
+.product-list .image img{
+  max-width: 100%;
+  max-height: 100%;
+}
+.detail-img img {
+  max-width: 100%;
+  height:400px;
+}
+.detail-wrap {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+}
+.bg-dark.text-white.card {
+  height: 450px;
+}
+.card.banner {
+  height: 550px;
+  margin-bottom: 150px;
+}
+.latest-product .card {
+  padding: 15px;
+  min-height: 450px;
+  height: 100%;
+}
+.latest-product .card img.card-img-top {
+  height: 300px;
+}
